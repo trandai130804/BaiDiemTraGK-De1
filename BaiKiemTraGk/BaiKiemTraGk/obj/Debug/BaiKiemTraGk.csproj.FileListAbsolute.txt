@@ -1,0 +1,15 @@
+C:\VSC2022\Code C# LT\BaiKiemTraGk\BaiKiemTraGk\bin\Debug\BaiKiemTraGk.exe.config
+C:\VSC2022\Code C# LT\BaiKiemTraGk\BaiKiemTraGk\bin\Debug\BaiKiemTraGk.exe
+C:\VSC2022\Code C# LT\BaiKiemTraGk\BaiKiemTraGk\bin\Debug\BaiKiemTraGk.pdb
+C:\VSC2022\Code C# LT\BaiKiemTraGk\BaiKiemTraGk\bin\Debug\EntityFramework.dll
+C:\VSC2022\Code C# LT\BaiKiemTraGk\BaiKiemTraGk\bin\Debug\EntityFramework.SqlServer.dll
+C:\VSC2022\Code C# LT\BaiKiemTraGk\BaiKiemTraGk\bin\Debug\EntityFramework.xml
+C:\VSC2022\Code C# LT\BaiKiemTraGk\BaiKiemTraGk\bin\Debug\EntityFramework.SqlServer.xml
+C:\VSC2022\Code C# LT\BaiKiemTraGk\BaiKiemTraGk\obj\Debug\BaiKiemTraGk.csproj.AssemblyReference.cache
+C:\VSC2022\Code C# LT\BaiKiemTraGk\BaiKiemTraGk\obj\Debug\BaiKiemTraGk.Form1.resources
+C:\VSC2022\Code C# LT\BaiKiemTraGk\BaiKiemTraGk\obj\Debug\BaiKiemTraGk.Properties.Resources.resources
+C:\VSC2022\Code C# LT\BaiKiemTraGk\BaiKiemTraGk\obj\Debug\BaiKiemTraGk.csproj.GenerateResource.cache
+C:\VSC2022\Code C# LT\BaiKiemTraGk\BaiKiemTraGk\obj\Debug\BaiKiemTraGk.csproj.CoreCompileInputs.cache
+C:\VSC2022\Code C# LT\BaiKiemTraGk\BaiKiemTraGk\obj\Debug\BaiKiemT.C9D4A015.Up2Date
+C:\VSC2022\Code C# LT\BaiKiemTraGk\BaiKiemTraGk\obj\Debug\BaiKiemTraGk.exe
+C:\VSC2022\Code C# LT\BaiKiemTraGk\BaiKiemTraGk\obj\Debug\BaiKiemTraGk.pdb
